@@ -1,0 +1,11 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Main-Client" type="Application" factoryName="Application">
+    <option name="MAIN_CLASS_NAME" value="sample.Main" />
+    <module name="Lab_1" />
+    <option name="PROGRAM_PARAMETERS" value="-client" />
+    <option name="VM_PARAMETERS" value="--module-path &quot;C:\javafx-sdk-18\lib&quot; --add-modules javafx.controls,javafx.fxml" />
+    <method v="2">
+      <option name="Make" enabled="true" />
+    </method>
+  </configuration>
+</component>
